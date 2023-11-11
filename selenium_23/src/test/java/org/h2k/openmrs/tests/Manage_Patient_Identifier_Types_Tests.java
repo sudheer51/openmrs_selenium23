@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class Manage_Patient_Identifier_Types_Tests {
 	
-	@Test(description="Validate the patient identifier types and addition as well")
+	@Test(description="Validate the patient identifier types and addition as well and description")
 	public void validate_add_patient_identifier_types()
 	{
 		System.out.println("Execution of additon tests");
